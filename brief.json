@@ -1,0 +1,7 @@
+{
+  "name": "moment",
+  "path": "dist",
+  "description": "Bitcode para disponibilização do Moment no Thrustjs",
+  "author": "Leonardo Delfino",
+  "version": "1.0.0"
+}
